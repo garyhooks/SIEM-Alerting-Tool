@@ -82,7 +82,7 @@ create_report()
 	echo "</body>" >> ./log_results/results.html
 	echo "</html>" >> ./log_results/results.html
 	
-	mv ./log_results/results.html /var/www/garyspassage.co.uk/results.html
+	mv ./log_results/results.html /var/www/yourwebsite/results.html
 
 }
 
